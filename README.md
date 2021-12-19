@@ -1,4 +1,6 @@
 # Frailty classification using machine learning on behavioral and physical health data
+## Publication
+Chao Bian, S. Khan, A. Mihailidis, 2021, “Frailty Classification Using Behavioral and Physical Health Data,” International Journal of Medical Informatics (In Review).
 
 # Datasets
 * [The Survey of Health, Ageing and Retirement in Europe (SHARE)](http://www.share-project.org/home0.html) dataset
